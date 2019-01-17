@@ -10,7 +10,10 @@ public class OrderClient {
 		os1.order(15);
 		System.out.println("-----두번쨰 주문 완료------");
 		} catch(NotEnoughStockException e ) {
+			System.out.println("주문 실패");
 			
 		}
+		System.out.println("모든 주문 처리 완료");
 	}
+	
 }
