@@ -19,7 +19,8 @@
     * JDBC 활용 - java database connectivity
     * < JAVA - 예외처리>
     * Collection API (Set , List , Map)
-    * Generis 
+    * Generis 개념 + 연습문제 활용
+    * python 설치 | 
 <hr/>
 
 
